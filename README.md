@@ -69,8 +69,6 @@ Senior Data Scientist at **Penguin AI** with ~2 years of post-graduation experie
 | [GIV-CXR](https://github.com/SreevaatsavB/GIV-CXR-Codebase) | Medical imaging VQA with spatial grounding — CVPR workshop paper |
 | [AnimalCLEF 2026](https://github.com/SreevaatsavB/animalclef-2026-solution) | 9th place — wildlife re-ID as clustering (ARI: 0.47075) |
 | [Finetuning Repo](https://github.com/SreevaatsavB/Finetuning_Repo) | Fine-tuning scripts for custom DL models on custom datasets |
-| [MCP MySQL Connector](https://github.com/SreevaatsavB/MCP_mysql_connector) | MCP server + client for natural language interaction with MySQL |
-| [Voice Chat](https://github.com/SreevaatsavB/Voice-chat) | Fully open-source voice chat application components |
 | [Generative AI Fundamentals](https://github.com/SreevaatsavB/Generative_AI_fundamentals) | Notebooks covering core GenAI concepts from first principles |
 
 ---
