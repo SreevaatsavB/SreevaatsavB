@@ -19,6 +19,7 @@
 
 Senior Data Scientist at **Penguin AI** with ~2 years of post-graduation experience. My focus is on NLP, multimodal AI, and generative models — building systems that work at scale in the real world.
 
+- 🥇 **Gold Medalist** — B.Tech in Artificial Intelligence
 - 📄 Co-authored **[GIV-CXR](https://github.com/SreevaatsavB/GIV-CXR-Codebase)** — medical imaging VQA with spatial grounding, published at a CVPR workshop
 - 🏆 **9th place** at AnimalCLEF 2026 — wildlife individual re-identification as clustering (ARI: 0.47075)
 - 🤖 Actively exploring **embodied AI** and robotics simulation
@@ -30,6 +31,7 @@ Senior Data Scientist at **Penguin AI** with ~2 years of post-graduation experie
 **ML / AI**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
