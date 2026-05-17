@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sreevaatsav 👋</h1>
-<h3 align="center">Senior Data Scientist · NLP & Multimodal AI · Building toward Embodied Intelligence</h3>
+<h3 align="center">Senior Data Scientist · NLP & Multimodal AI · Generative AI & Robotics</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sreevaatsav-bavana/">
@@ -20,7 +20,7 @@
 Senior Data Scientist at **Penguin AI** with ~2 years of post-graduation experience. My focus is on NLP, multimodal AI, and generative models — building systems that work at scale in the real world.
 
 - 🥇 **Gold Medalist** — B.Tech in Artificial Intelligence
-- 📄 First author of **[GIV-CXR](https://github.com/SreevaatsavB/GIV-CXR-Codebase)** — medical imaging VQA with spatial grounding, published at a CVPR workshop
+- 📄 **[GIV-CXR](https://github.com/SreevaatsavB/GIV-CXR-Codebase)** — medical imaging VQA with spatial grounding, published at a CVPR workshop
 - 🏆 **9th place** at AnimalCLEF 2026 — wildlife individual re-identification as clustering (ARI: 0.47075)
 - 🤖 Actively exploring **embodied AI** and robotics simulation
 
