@@ -74,4 +74,4 @@ Senior Data Scientist at **Penguin AI** with ~2 years of post-graduation experie
 ---
 
 
-<p align="center"><i>Curious about the intersection of language, vision, and action — always building.</i></p>
+<p align="center"><i>Still building. Depth over shortcuts — on a mission for the 10,000 hours.</i></p>
