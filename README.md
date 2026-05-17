@@ -17,12 +17,11 @@
 
 ## About Me
 
-Senior Data Scientist at **Penguin AI** with ~2 years of post-graduation experience, working at the intersection of foundation models and real-world deployment. My focus spans NLP, multimodal AI, and generative models — grounded in transformer architectures, parameter-efficient fine-tuning (LoRA/SFT), and flow matching.
+Senior Data Scientist at **Penguin AI** with ~2 years of post-graduation experience. My focus is on NLP, multimodal AI, and generative models — building systems that work at scale in the real world.
 
 - 📄 Co-authored **[GIV-CXR](https://github.com/SreevaatsavB/GIV-CXR-Codebase)** — medical imaging VQA with spatial grounding, published at a CVPR workshop
 - 🏆 **9th place** at AnimalCLEF 2026 — wildlife individual re-identification as clustering (ARI: 0.47075)
-- 🤖 Actively exploring **embodied AI** and robotics simulation (Modern Robotics, HuggingFace Robotics)
-- 🎓 Working toward a **Fall 2027 Master's degree**
+- 🤖 Actively exploring **embodied AI** and robotics simulation
 
 ---
 
@@ -30,23 +29,34 @@ Senior Data Scientist at **Penguin AI** with ~2 years of post-graduation experie
 
 **ML / AI**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Generative AI & LLMs**
+**Generative AI**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square&logoColor=white)
 
-**Tools & Infrastructure**
+**Engineering & Ops**
 
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Robotics & Simulation**
+
+![LeRobot](https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-00897B?style=flat-square&logoColor=white)
+![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-0078D7?style=flat-square&logoColor=white)
+![Fairino](https://img.shields.io/badge/Fairino-FF6F00?style=flat-square&logoColor=white)
 
 ---
 
