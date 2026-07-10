@@ -17,7 +17,7 @@
 
 ## About Me
 
-Senior Data Scientist at **Penguin AI** with ~3 years of post-graduation experience. My focus is on multimodal AI, Robotic policies and LLM enginnering — building systems that work at scale in the real world.
+Senior Data Scientist at **Penguin AI** with ~3 years of post-graduation experience. My focus is on multimodal AI, Robotic policies and ML and LLM enginnering — building systems that work at scale in the real world.
 
 - 🥇 **Gold Medalist** — B.Tech in Artificial Intelligence
 - 📄 **[GIV-CXR](https://github.com/SreevaatsavB/GIV-CXR-Codebase)** — medical imaging VQA with spatial grounding, published at a CVPR workshop
